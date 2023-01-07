@@ -1,0 +1,5 @@
+with open("test.txt") as f:
+    with open("out.txt", "w") as f1:
+        for line in f:
+            print(line)
+            f1.write(line)
