@@ -22,6 +22,7 @@ else:
 #             return False
 #         return True
 
+
 # x = int(input('Enter number'))
 # if isprime(x):
 #     print("The", x, "is prime number")
@@ -39,3 +40,13 @@ else:
 #             break
 #     else:
 #         print("It is a prime number")
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
