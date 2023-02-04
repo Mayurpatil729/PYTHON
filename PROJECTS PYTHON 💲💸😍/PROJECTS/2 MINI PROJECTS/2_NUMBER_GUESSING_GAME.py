@@ -34,3 +34,18 @@ while True:
         print("you were below the number !!! ")
 
 print("you got it in", guesses, "guesses")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

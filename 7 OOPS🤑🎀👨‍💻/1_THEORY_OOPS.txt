@@ -1,0 +1,72 @@
+⟫⇛                           OOPS                                     ⇚⟪
+
+1. In Python every thing is an object. To create objects we required some Model or Plan or Blue 
+print, which is nothing but class.
+2. We can write a class to represent properties (attributes) and actions (behaviour) of object.
+3. Properties can be represented by variables
+4.Actions can be represented by Methods.
+
+
+CLASS IS AN BLUEPRINT/PLAN/MODEL/DESIGN FOR AN OBJECT.
+OBJECT IS A PYSICAL EXITETANCE OF A CLASS.
+
+SYNTAX:
+
+class name_of_class:        //class name starts with capital letter in oops
+    '''doc string''''
+    properties (variables)
+    actions (methods)
+
+How to create in python:
+    reference variable=classname()
+ 
+
+Every object has properties and behaviour.
+-------------------------------------------
+1. Properties(data) are specified by Variables
+2. Behaviour can be specified by Methods
+
+3 Types of variables:
+-----------------------------------------------------
+1. Instance variables (Object level variables)
+2. Static Variables (Class level variables)
+3. Local Variables (Methed level variables)
+
+3 Types of Methods:
+------------------------------------
+1. Instance Methods
+2. Class methods
+3. static methods
+
+==> Functions which are defined in class is called as methods.
+
+⟫⇛ Reference variable can be used to refer objects.
+⟫⇛ By using reference vaFiab1e, we can invoke functionlaity of object.
+⟫⇛ For a single object, there may a chance of multiple references.
+⟫⇛ purpose of reference variable is we can access members/variables of objecs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

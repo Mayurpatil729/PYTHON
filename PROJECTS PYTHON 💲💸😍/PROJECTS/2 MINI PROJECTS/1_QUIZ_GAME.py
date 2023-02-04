@@ -56,3 +56,13 @@ else:
 print("CONGRATUALATIONS !!!🎉\n YOUR SCORE IS " + str(score) + " OUT OF 5 QUESTIONS ")
 
 print("CONGRATUALATIONS !!! YOU GOT " + str(score / 5 * 100) + "%.")
+
+
+
+
+
+
+
+
+
+
