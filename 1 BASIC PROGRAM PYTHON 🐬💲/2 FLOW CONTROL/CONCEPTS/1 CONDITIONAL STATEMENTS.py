@@ -1,4 +1,5 @@
-'''        IF         '''  # switch case is  not available in python but match case is availabel in python
+'''                             IF                                '''  
+# switch case is  not available in python but match case is availabel in python
 
 '''
 password=input("Enter the password :")
