@@ -1,41 +1,40 @@
 '''            Input output statements           '''
 
 
-'''eno=int(input("\n\t Enter the Employee no ."))
-ename=input("\n\t Enter Employee name :")
-esal=float(input("\n\t Enter the salary :"))
-eaddr=input("\n\t Enter the employee address : ")
-married=bool(input("\n\t Employee married ? [True | False ]:"))    
+eno = int(input("\n\t Enter the Employee no ."))
+ename = input("\n\t Enter Employee name :")
+esal = float(input("\n\t Enter the salary :"))
+eaddr = input("\n\t Enter the employee address : ")
+married = bool(input("\n\t Employee married ? [True | False ]:"))
 
 print("\n\t Please confirm information")
-print("\n\t Employee no:",eno)
-print("\n\t Employee name : ",ename)"
-print("\n\t Employee salary :",esal)
-print("\n\t Employee address : ",eaddr)
-print("\n\t Employee married :",married)
-
+print("\n\t Employee no:", eno)
+print("\n\t Employee name : ", ename)
+print("\n\t Employee salary :", esal)
+print("\n\t Employee address : ", eaddr)
+print("\n\t Employee married :", married)
 
 
 """              addition of two numbers                """
 print("\n\tProgram for addition of two numbers ")
-a=int(input("\n\tEnter the first number:"))
-b=int(input("\n\tEnter the second number :"))
+a = int(input("\n\tEnter the first number:"))
+b = int(input("\n\tEnter the second number :"))
 
-print("\n\tthe Addition :",a+b)
+print("\n\tthe Addition :", a+b)
 
-print("\n\tthe subtraction:",int(input("Enter the first number:"))-int(input("Enter the second number :")))
+print("\n\tthe subtraction:", int(input("Enter the first number:")) -
+      int(input("Enter the second number :")))
 
 
+"""                 split and eval                 """
 
-"""                 split and eval                 """                '''
-
-'''print("\nProgram for multiplication of two numbers ")
+print("\nProgram for multiplication of two numbers ")
 
 #a,b=[int(x) for x in input("Enter the 2 numbers :").split()]
 #a, b = [int(x) for x in input("Enter the 2 numbers :").split(",")]
 a, b = [int(x) for x in input("Enter the 2 numbers :").split()]
 
-print("\n\tproduct is :",a*b)                 '''
+print("\n\tproduct is :", a*b)
 
 
 print("Eval Function")
@@ -92,9 +91,8 @@ b = 12
 
 print("a value is %i and b value is %i " % (a, b))
 
-
 m = 'mayur'
-l = [52, 52, 39, ]
+l = [52, 52, 39]
 
 print("hello %s ... The list of items are %s " % (m, l))
 # format specifier is allowed

@@ -6,7 +6,7 @@
 ⟫⇛ This was created in 2005 by travis Oliphant
 It is the fundamental python library to perform complex numerical operations.
 ⟫⇛Numpy is developed on top of Numeric Library.
-⟫⇛Numeric Library developed by Jim Hugunin.
+⟫⇛Numeric Library developed by "" Jim Hugunin "".
 ⟫⇛Numpy is developed by Travis Oliphant and multiple contributors.
 ⟫⇛Numpy is freeware and open source library.
 

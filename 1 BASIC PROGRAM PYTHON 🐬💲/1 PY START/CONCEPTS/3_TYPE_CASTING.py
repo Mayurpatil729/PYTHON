@@ -6,8 +6,8 @@ print(int(19))
 print(int(1912.5))
 print(int(1912.5))
 print(int(True))
-#print(int("mayur"))
-#print(int(10+5j))
+# print(int("mayur"))
+# print(int(10+5j))
 
 
 '''            float       '''
@@ -17,13 +17,13 @@ print("\n\t\tfloat data type")
 print(float(2.9))
 print(float(2))
 print(float(True))
-#print(float(10+6j))
-#print(float("mayur"))
+# print(float(10+6j))
+# print(float("mayur"))
 
 
 '''            complex       '''
 
-print("\n\t\tint data type")
+print("\n\t\tComplex data type")
 
 print(complex(10))
 print(complex(10+4j))
@@ -31,10 +31,9 @@ print(complex(10+5.3j))
 print(complex("10"))  # print(complex("mayur"))
 print(complex(10))
 
-
 '''            Bool      '''
 
-print("\n\t\tbool data type")
+print("\n\t\tBool data type")
 
 print(bool(10))
 print(bool(0))
@@ -61,12 +60,12 @@ print("\n\t\tbytes data type")
 x = [10, 20, 30, 40, 50]
 
 b = bytes(x)
-print(type(b))
 
+print(type(b))
 print(b[0])
 print(x)
 
-#range 0 to 256
+# range 0 to 256
 
 '''           byteaarray data type   '''
 
@@ -82,7 +81,7 @@ print(b[0])
 print(m)
 
 
-#range 0 to 256
+# range 0 to 256
 
 '''           list  data  type   '''
 
@@ -143,7 +142,7 @@ print(s)
 
 
 print(type(s))            # does not support indexing
-#mutable
+# mutable
 
 
 s.add("beetroot")
@@ -191,10 +190,11 @@ print(m)
 
 print("\n\t\tNone data type")
 
+
 def m1():
     a = 10
     print(m1)
     None
- 
- 
+
+
 """            The end                      """

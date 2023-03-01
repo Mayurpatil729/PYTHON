@@ -11,34 +11,40 @@ print("{1} salary is :{0} and his age is :{2} ".format(name, salary, age))
 print("{x} salary is :{y} and his age is :{z} ".format(x=name, y=salary, z=age))
 
 
-
-
 print()
 # f strings
-letter="hey my name is {} and i am from {} "
-country='india'
-name='rohan'
+letter = "hey my name is {} and i am from {} "
+country = 'india'
+name = 'rohan'
 
-print(letter.format(name,country))
+print(letter.format(name, country))
 print(f"hey my name is {name} and i am from {country}")
 
 print()
-price=49.09999
-txt=f"For only {price:.2f} dollars "
+price = 49.09999
+txt = f"For only {price:.2f} dollars "
 print(txt.format(price))
 print(type(f"{3*20}"))
 
 
+name = input("Enter your name")
+print(f'My name is {name}.')
+
+x = eval(input('enter first number'))
+y = eval(input('enter second number'))
+if x > y:
+    print(f'max={x}')
+else:
+    print(f'min={y}')
 
 
-
-
-
-
-
-
-
-
+n = eval(input('eneter the number'))
+if n > 0:
+    print(f'{n} is positive number')
+if n < 0:
+    print(f'{n} is negative number')
+if n == 0:
+    print(f'{n} is neutral')
 
 
 # ENUMERATE FUNCTION

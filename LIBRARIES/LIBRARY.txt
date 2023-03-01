@@ -1,6 +1,7 @@
 
 FOR DATA SCIENCE
 =======================================================
+
 NUMPY
 MATPLOTLIB
 PANDAS
@@ -14,6 +15,11 @@ SCIKIT LEARN
 TENSORF OR PYTORCH ==> DEEP LEARN
 SPACY,NLTK
 OPENCV
+
+
+
+
+5 march ===> 12 march 
 
 
 

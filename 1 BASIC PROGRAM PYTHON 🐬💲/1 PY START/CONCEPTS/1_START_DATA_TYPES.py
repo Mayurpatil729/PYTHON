@@ -73,7 +73,7 @@ print("\n\t Value of f = ", f)
 
 print("\n\t\t\t\t\t\t\t  COMPLEX")
 
-# =real part
+# a=real part
 # b=imaginary part , j is compulsory
 
 a = 10+20j

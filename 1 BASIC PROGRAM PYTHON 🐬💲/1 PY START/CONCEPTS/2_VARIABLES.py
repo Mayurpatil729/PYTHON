@@ -1,5 +1,4 @@
 #camel case
-
 myvariableName='john'
 
 #pascal case
