@@ -2,7 +2,7 @@ for x in range(10):
     print("HELLO")
 
 
-# display numbers 0 to 10
+# Display numbers 0 to 10
 for x in range(11):
     print(x)
 
@@ -13,7 +13,7 @@ for x in range(1, 11):
 
 
 # DISPLAY ODD NUMBERS FROM 0 TO 20
-print("\n\t display odd numbers")
+print("\n\t Display odd numbers")
 for x in range(21):
     if (x % 2 != 0):
         print(x)
@@ -22,5 +22,19 @@ for x in range(21):
 print("\n\t 10 to 1 descending order :")
 for x in range(10,0,-1):
     print(x)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

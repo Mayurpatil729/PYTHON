@@ -6,3 +6,6 @@ if string[::] == string[::-1]:
     print(f"{string} is palindrome string")
 else:
     print(f"{string} is not a palindrome string")
+    
+    
+    

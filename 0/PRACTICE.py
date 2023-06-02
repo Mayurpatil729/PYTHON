@@ -11,3 +11,24 @@ s = "mayur"
 m = s[::-1]
 print(m)
 print(len(s))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,5 +1,5 @@
-x = eval(input('enter first number'))
-y = eval(input('enter second number'))
+x = eval(input('Enter first number :'))
+y = eval(input('Enter second number :'))
 
 choice = input(
     "Please Enter your choice: \nA for Addition, \nS for Subtraction, \nM for Multiplication and \nD for Division\n")

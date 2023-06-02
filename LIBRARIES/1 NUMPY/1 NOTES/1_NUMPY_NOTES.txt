@@ -37,6 +37,16 @@ It is the fundamental python library to perform complex numerical operations.
 ==> Solving Differential equations
 ==> Statistics related operations etc
 
+wide variety of mathematical operations on arrays.
+It supplies an enormous library of high-level mathematical functions that
+operate on these arrays and matrices.
+mathematical, logical, shape manipulation, sorting, selecting, 1/0,
+discrete Fourier transforms, basic linear algebra, basic statistical
+operations, random simulation and much more.
+
+===================================================================
+===================================================================
+
 ⟫⇛ What are various Features of Numpy?
 1. Numpy is superfast because it is written in C language.
 2. Numpy acts as backbone for Data Science Libraries like pandas, scikit-learn etc
