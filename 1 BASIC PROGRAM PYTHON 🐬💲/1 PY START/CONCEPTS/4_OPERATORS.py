@@ -1,19 +1,19 @@
 '''                  operators                     '''
 
 '''                  Arithmetic                    '''
+
 import math as m
 from math import *           # *== for all
 import math
-
 a = 10
 b = 20
 print("a+b = ", a+b)
 print("a-b = ", a-b)
 print("a*b = ", a*b)
 print("a/b = ", a/b)
-print("amodb = ", a % b)
-print("a//b = ", a//b)
-print("a**b = ", a**b)
+print("a mod b = ", a % b)
+print("a//b = ", a//b)   # floor division
+print("a ** b = ", a**b)   # exponentition
 
 
 '''                  Relational                     '''
@@ -22,10 +22,10 @@ print('\n\t The relational operator')
 
 a = 10
 b = 20
-print("a+b = ", a > b)
-print("a-b = ", a < b)
-print("a*b = ", a >= b)
-print("a/b = ", a <= b)
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
 
 print(10 < 20 < 30 < 40)
 print(10 < 20 < 30 < 40 > 50)
@@ -45,13 +45,19 @@ print("hello" == "hello")
 
 print('\n\t The Logical operator')
 
+# and ==> if both true then true
+# or ==> if both false then false
+
 print(True and False)
+
+print(False and False)
 
 print(True and True)
 
 print(True or False)
 
-print(False and False)
+print(True or True)
+
 
 print(not False)
 
@@ -95,6 +101,8 @@ x = 20
 x += 20
 print(x)
 
+# There is no  increment operator in python
+
 
 '''                  TERNARY  operator                      '''
 
@@ -111,14 +119,16 @@ print("maximun value :", max)   '''
 
 '''                  SPECIAL  operator                      '''
 
+print("\n\t\t Special operator")
 a = 10
 b = 20
 print(a is b)           # address comparision
 print(a is not b)
 
+
 '''                  MEMBERSHIP  operator                      '''
 
-
+print("\n\t\t Membership operator")
 x = "hello world"
 
 print('h' in x)

@@ -7,6 +7,7 @@ print(b)
 print()
 print(bin(4))
 
+
 s = "mayur"
 m = s[::-1]
 print(m)

@@ -1,5 +1,5 @@
 
-#!                     BASIC PROGRAM FOR INT,FLOAT,COMPLEX,BOOL 
+#!                     BASIC PROGRAM FOR INT,FLOAT,COMPLEX,BOOL,STR 
 
 
 # Simple print

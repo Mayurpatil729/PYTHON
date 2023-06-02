@@ -1,9 +1,11 @@
+#!                       TYPE CASTING 
+
+
 '''            int        '''
 
 print("\n\t\tint data type")
 
 print(int(19))
-print(int(1912.5))
 print(int(1912.5))
 print(int(True))
 # print(int("mayur"))
@@ -21,14 +23,15 @@ print(float(True))
 # print(float("mayur"))
 
 
-'''            complex       '''
+'''            Complex       '''
 
 print("\n\t\tComplex data type")
 
 print(complex(10))
 print(complex(10+4j))
 print(complex(10+5.3j))
-print(complex("10"))  # print(complex("mayur"))
+print(complex("10"))  
+#print(complex("mayur"))
 print(complex(10))
 
 '''            Bool      '''
