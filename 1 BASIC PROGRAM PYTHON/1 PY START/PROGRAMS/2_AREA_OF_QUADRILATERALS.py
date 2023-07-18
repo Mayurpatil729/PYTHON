@@ -15,3 +15,5 @@ print("\n\t The area of circle  : ", pi*r**2)
 """        Area of square    💸        """
 side = eval(input("\n\t Enter the side of square :"))
 print("\n\t The area of square is :", side**2)
+
+

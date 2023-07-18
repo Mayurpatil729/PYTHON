@@ -37,7 +37,7 @@ It is the fundamental python library to perform complex numerical operations.
 ==> Solving Differential equations
 ==> Statistics related operations etc
 
-wide variety of mathematical operations on arrays.
+Wide variety of mathematical operations on arrays.
 It supplies an enormous library of high-level mathematical functions that
 operate on these arrays and matrices.
 mathematical, logical, shape manipulation, sorting, selecting, 1/0,
@@ -64,17 +64,17 @@ learn etc
 ==========================================================================================
 
 ⟫⇛ Application Areas of Numpy? 
-To perform lineral algebra functions
-To perform linear regression
-To perform logistic regression
+To perform lineral algebra functions.
+To perform linear regression.
+To perform logistic regression.
 Deep Neural Networks
-K-means Cll"tering
+K-means Clustering
 Control Systems
 Operational Reasearch
 
 ===================================================================
 
-⟫⇛ What topics will be covered as the part of this numpy?
+⟫⇛ What topics will be covered as the part of this numpy ?
 Creation of Numpy Array
 Array Operations
 Array Attributes

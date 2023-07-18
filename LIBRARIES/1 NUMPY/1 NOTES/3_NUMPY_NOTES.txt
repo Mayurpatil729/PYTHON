@@ -1,7 +1,7 @@
 Numpy Data Types
 
 How to get/access elements of Numpy Array:
-There are 2 ways available to to get/access elements of Numpy Array
+There are 2 ways available to get/access elements of Numpy Array
 1. Indexing
 2. Slicing
 
