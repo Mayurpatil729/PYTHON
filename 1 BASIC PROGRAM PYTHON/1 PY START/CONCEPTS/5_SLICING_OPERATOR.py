@@ -57,6 +57,9 @@ print("\n\t\tTo calculate length")
 print(len(s))
 
 
+
+
+
 '''          TYPE CASTING     '''
 
 print("\n\n For TYPE CASTING")

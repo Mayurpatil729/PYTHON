@@ -21,3 +21,10 @@ print(s)
 l=['hyderabad','singapore','london','dubai']
 s=':'.join(l)
 print(s)
+
+
+print()
+
+str1="Mayur , patil "
+rev_wrd=" ".join(str1.split()[::-1])
+print(rev_wrd)
