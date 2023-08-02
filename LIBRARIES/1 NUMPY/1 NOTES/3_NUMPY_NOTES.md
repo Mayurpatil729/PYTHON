@@ -1,4 +1,4 @@
-Numpy Data Types
+# Numpy Data Types
 
 How to get/access elements of Numpy Array:
 There are 2 ways available to get/access elements of Numpy Array
