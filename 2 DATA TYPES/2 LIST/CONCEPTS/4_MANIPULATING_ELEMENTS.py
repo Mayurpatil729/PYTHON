@@ -57,3 +57,7 @@ del n3[1]
 print(n3)
 del n3
 print(n3)
+
+# map function
+
+ls = list(map(int, input.split()))
