@@ -19,11 +19,6 @@ Collecting typing-extensions>=4
 Installing collected packages: tzdata, typing-extensions, sqlparse, asgiref, django
 Successfully installed asgiref-3.7.2 django-5.0.3 sqlparse-0.4.4 typing-extensions-4.10.0 tzdata-2024.1
 
-[notice] A new release of pip is available: 23.0.1 -> 24.0
-[notice] To update, run: python.exe -m pip install --upgrade pip
-
- 
-
 (my_venv) M:\DjangoProjects01>django-admin version
 5.0.3
 
@@ -80,21 +75,36 @@ pip install django==1.11
 ```
 
 
-####
+#### Run The Project
 ```
-```
+http://127.0.0.1:8000/
 
-
-####
-```
+http://localhost:8000/
 ```
 
 
-
-####
+#### To Change the PortNumber
 ```
+python manage.py runserver 8888
 ```
 
+
+
+#### To Create The Application
+PS M:\DjangoProjects01\firstproject>
+```
+python manage.py startapp ApplicationName
+```
+
+
+### Steps To Create the Application
+1. start project
+2. start application
+3. add this application to the project in settings. py file
+4. define view function inside views. py
+5. define url pattern for our view function inside urls.py
+6. runserver
+7. send request
 
 
 ####
