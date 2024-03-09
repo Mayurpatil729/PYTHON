@@ -52,6 +52,24 @@ Not Found: /favicon.ico
 
 ------------------------------------------------------------------------------------------------------
 
+To Create a virtual Environment
+```
+python -m venv my_venv
+```
+
+To activate the Scripts
+```
+my_venv\Scripts\activate
+```
+
+Installing the Django
+```
+(my_venv) M:\DjangoProjects01>pip install django
+```
+
+```
+```
+
 
 
 
@@ -61,9 +79,7 @@ Not Found: /favicon.ico
 
 
 ```
-function test() {
   console.log("This code will have a copy button to the right of it");
-}
 ```
 
 
