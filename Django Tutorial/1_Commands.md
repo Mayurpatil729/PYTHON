@@ -40,48 +40,51 @@ System check identified no issues (0 silenced).
 
 You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
 Run 'python manage.py migrate' to apply them.
-March 09, 2024 - 12:14:01
+
 Django version 5.0.3, using settings 'firstproject.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 
-[09/Mar/2024 12:14:28] "GET / HTTP/1.1" 200 10629
-Not Found: /favicon.ico
-[09/Mar/2024 12:14:29] "GET /favicon.ico HTTP/1.1" 404 2116
 
 
 ------------------------------------------------------------------------------------------------------
 
-To Create a virtual Environment
+#### To Create a virtual Environment
 ```
 python -m venv my_venv
 ```
 
-To activate the Scripts
+#### To activate the Scripts
 ```
 my_venv\Scripts\activate
 ```
 
-Installing the Django
+#### Installing the Django
 ```
 (my_venv) M:\DjangoProjects01>pip install django
 ```
 
+####  To Check Version
+```
+(my_venv) M:\DjangoProjects01>django-admin version
+```
+
+#### To Create the Project
+```
+(my_venv) M:\DjangoProjects01>django-admin startproject firstproject
+```
+
+#### To Run the Project
+```
+(my_venv) M:\DjangoProjects01\firstproject>python manage.py runserver
+```
+
+####
 ```
 ```
 
-
-
-
-
-
-
-
-
 ```
-  console.log("This code will have a copy button to the right of it");
 ```
-
 
 
 
