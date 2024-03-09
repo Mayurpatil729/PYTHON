@@ -40,28 +40,28 @@ System check identified no issues (0 silenced).
 
 You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
 Run 'python manage.py migrate' to apply them.
-
 Django version 5.0.3, using settings 'firstproject.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
-
-
-
 ------------------------------------------------------------------------------------------------------
 
-#### To Create a virtual Environment
+#### To Create a Virtual Environment
 ```
 python -m venv my_venv
 ```
 
-#### To activate the Scripts
+#### To Activate the Scripts
 ```
 my_venv\Scripts\activate
 ```
 
-#### Installing the Django
+#### Installing The Django
 ```
 (my_venv) M:\DjangoProjects01>pip install django
+```
+#### To Install of Specific Version
+```
+pip install django==1.11
 ```
 
 ####  To Check Version
@@ -69,42 +69,50 @@ my_venv\Scripts\activate
 (my_venv) M:\DjangoProjects01>django-admin version
 ```
 
-#### To Create the Project
+#### To Create The Project
 ```
-(my_venv) M:\DjangoProjects01>django-admin startproject firstproject
+(my_venv) M:\DjangoProjects01>django-admin startproject ProjectName
 ```
 
-#### To Run the Project
+#### To Run The Project
 ```
 (my_venv) M:\DjangoProjects01\firstproject>python manage.py runserver
 ```
+
 
 ####
 ```
 ```
 
+
+####
+```
+```
+
+
+
+####
+```
+```
+
+
+
+####
+```
+```
+
+
+
+####
 ```
 ```
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+####
+```
+```
 
 
 
