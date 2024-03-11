@@ -37,7 +37,7 @@ You have 18 unapplied migration(s). Your project may not work properly until you
 
 Run 'python manage.py migrate' to apply them.
 Django version 5.0.3, using settings 'firstproject.settings'
-Starting development server at http://127.0.0.1:8000/
+Starting development server at  http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 
 ------------------------------------------------------------------------------------------------------
@@ -100,13 +100,13 @@ python manage.py startapp ApplicationName
 
 
 ### Steps To Create the Application
-1. start project
-2. start application
-3. add this application to the project in settings. py file
-4. define view function inside views. py
-5. define url pattern for our view function inside urls.py
-6. runserver
-7. send request
+1. Start Project
+2. Start Application
+3. Add this application to the project in settings. py file
+4. Define view function inside views. py
+5. Define url pattern for our view function inside urls.py
+6. Runserver
+7. Send request
 
 
 ####
