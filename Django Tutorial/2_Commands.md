@@ -36,8 +36,8 @@ demoproject1
 
 #### Notes
 
-Python related business code -- > View.py
-HTML related Presentation Logic--> Temp1ate
+1. Python related business code -- > View.py
+2. HTML related Presentation Logic--> Temp1ate
 
 
 
