@@ -63,7 +63,7 @@ pip install django==1.11
 
 ####  To Check Version
 ```
-(my_venv) M:\DjangoProjects01>django-admin version
+(my_venv) M:\DjangoProjects01>django-admin --version
 ```
 
 #### To Create The Project
