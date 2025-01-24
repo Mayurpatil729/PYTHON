@@ -6,12 +6,12 @@ age = 32
 
 print("{} salary is :{} and his age is :{} ".format(name, salary, age))
 
-print("{1} salary is :{0} and his age is :{2} ".format(name, salary, age))
+print("{1} salary is :{0} and his age is :{1} ".format(name, salary, age))
 
 print("{x} salary is :{y} and his age is :{z} ".format(x=name, y=salary, z=age))
 
 
-print()
+print() 
 # f strings
 letter = "hey my name is {} and i am from {} "
 country = 'india'
@@ -38,7 +38,7 @@ else:
     print(f'min={y}')
 
 
-n = eval(input('eneter the number'))
+n = eval(input('enter the number'))
 if n > 0:
     print(f'{n} is positive number')
 if n < 0:
@@ -63,3 +63,16 @@ for index, mark in enumerate(marks):
     print(mark)
     if (index == 3):
         print("enumerate")
+
+
+
+
+
+
+
+
+
+
+
+
+

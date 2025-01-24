@@ -1,4 +1,3 @@
-
 # ! ACCESSING ELEMENTS OF LIST :
 
 # * 1] BY USING INDEX :
@@ -17,9 +16,9 @@ print(list[-4])
 print()
 
 
-#* 2 ] BY USING SLICE OPERATOR :
+# * 2 ] BY USING SLICE OPERATOR :
 
-n=[1,2,3,4,5,6,7,8,9,10]
+n = [1, 5, 3, 4, 5, 6, 7, 8, 9, 10]
 print(n[2:7:2])
 print(n[4::2])
 print(n[3:7])
@@ -28,9 +27,22 @@ print(n[4:100])
 print()
 
 
-#? list is mutable
+# Iterate by position/index :
+for i in range(0, len(n)):
+    print(n[i])
 
-n=[10,20,30,40,50]
+print()
+# iterate by value :
+for i in n:
+    print(i)
+print()
+
+
+# ? list is mutable
+
+n = [10, 20, 30, 40, 50]
 print(n)
-n[2]=99
+n[2] = 99
 print(n)
+
+

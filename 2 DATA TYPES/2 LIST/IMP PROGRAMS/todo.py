@@ -5,3 +5,9 @@
 # 4. Exchange every number of a list with its square.
 # 5. Reverse a list and store into another list without
 # slicing or reverse() function 
+
+
+
+
+
+

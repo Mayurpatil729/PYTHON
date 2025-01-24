@@ -1,5 +1,5 @@
-# Basic
 
+############################################
 class Student:
     '''Look like an angel'''
     # variables(properties) like name, marks, rollno
@@ -42,12 +42,28 @@ print(id(s1))
 print(id(s2))
 
 
+############################################################################
 
+#Student Details
+student_1=['Madhav',10]  # Name, Grade
+student_2=['Vishakha',12]
+student_3='keshav'
 
+student_1.append('A')
 
+print(f'{student_1[0]} is in class {student_2[1]}' )
 
+### Using OOPs - Creating Student Records
 
+# Class - blueprint or template
+class Student :
+    name='Madhav'
+    grade=10
+    # pass
 
+# object - instance of class
+student1= Student()
+print(student1.name,student1.grade)
 
 
 

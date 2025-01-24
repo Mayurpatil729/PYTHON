@@ -41,7 +41,25 @@ s2 = Student1('bunny', 102, 98)
 print('Student2:', s2.name, s2.rollno, s2.marks)
 print("Address of s2: ", id(s2))
 
+############################################
 
+
+class Student:
+    def __init__(self,name,grade): #__init__method-Constructor, Value initialize -fix
+    #self parameter-reference or connection build btw class and object - fix
+        self.name=name
+        self.grade=grade    
+        
+        
+        
+        
+        
+        
+student1=Student()
+print(student1.name,student1.grade)
+
+student2=Student()
+print(student2.name,student2.grade)
 
 
 

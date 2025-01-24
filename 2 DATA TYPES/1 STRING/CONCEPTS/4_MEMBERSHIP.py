@@ -11,6 +11,9 @@ else:
 z = "membership"
 print('m' in z)
 print('z' in z)
+
+####################################################
+
 # == is used to check content comparision
 # is  is used to check reference comparision
 
@@ -24,6 +27,7 @@ print(list1 is list2)
 
 
 # comaparision operator
+
 s1 = input("Enter first string:")
 s2 = input("Enter Second string:")
 if s1 == s2:
@@ -32,5 +36,15 @@ elif s1 < s2:
     print("First String is less than Second String")
 else:
     print("First String is greater than Second String")
+
+
+
+
+
+
+
+
+
+
 
 

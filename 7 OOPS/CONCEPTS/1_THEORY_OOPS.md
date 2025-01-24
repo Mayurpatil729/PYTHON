@@ -93,6 +93,25 @@ variables)
 
 
 
+# Basic
+############################################
+
+# class : cast/Mold
+# Attributes : car properties : Color
+# Methods : Car Features : Door Open
+# Object : Car : Product
+
+# Two ways of programming in Python: 1) Procedural Programming, 2)
+# OOPs
+# OOPs: Object Oriented Programming
+# A way of organizing code by creating "blueprints" (called classes) to represent real-
+# world things like a student, car, or house. These blueprints help you create objects
+# (individual examples of those things) and define their behavior.
+# Class: A class is a blueprint or template for creating objects.
+# It defines the properties (attributes) & actions/behaviors (methods
+# type will have.
+# Object: An object is a specific instance of a class.
+# It has actual data based on the blueprint defined by the class.
 
 
 

@@ -8,3 +8,8 @@ if city.strip() in list:
     print("Your city is available and CCC are")
 else:
     print(city, "Not available...Plz enter valid city name")
+
+#lstrip
+#rstrip
+
+

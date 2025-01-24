@@ -10,6 +10,13 @@ list.append("d")
 list.append("e")
 print(list)
 
+list=[] 
+for i in range(101): 
+    if i%10==0: 
+        list.append(i) 
+
+print(list)
+
 #! 2 ] insert()
 print()
 n1 = [1, 2, 3, 4, 5, 6, 7]

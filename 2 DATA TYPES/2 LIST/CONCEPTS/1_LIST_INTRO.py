@@ -1,4 +1,4 @@
-'''          LIST DATA TYPE  '''
+"""          LIST DATA TYPE  """
 
 """
 1] insertion order preserved
@@ -30,7 +30,7 @@ l = list(range(0, 10, 2))  # note double round brackets
 print(l)
 print(type(l))
 
-m = 'python'
+m = "python"
 l = list(m)
 print(l)
 
@@ -40,3 +40,12 @@ s = "learning python is very very easy !!! "
 l = s.split()
 print(l)
 print(type(l))
+
+
+data = [1, 2, 3, 4, "mayur", "code"]
+print(data)
+print(*data)
+
+
+
+
