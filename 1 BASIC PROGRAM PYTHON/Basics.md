@@ -87,45 +87,45 @@ With this setup, you are ready to develop and run Python projects in an isolated
 
 ### Core Python:
 
-Language Fundamentals
-Operators
-Input and output stateme
-Flow control
-String data type
-List Data Structure
-Tuple Data Structure
-Set Data Structure
-Dict Data Structure
-Functions
-Modules
-Packages
+1. Language Fundamentals
+2. Operators
+3. Input and Output Statements
+4. Flow Control
+5. String Data Type
+6. List Data Structure
+7. Tuple Data Structure
+8. Set Data Structure
+9. Dict Data Structure
+10. Functions
+11. Modules
+12. Packages
 
 ---
 
 ### Advanced Python:
 
-OOPs
-Exception Handling
-File Handling
-Serialization
-Regular Expressions and web scraping
-multi threading
-Python Database conncectivity(PDBC)
-Decorators
-Generators
-Logging module
-Assertions
-Numpy
-Pandas
-unit testing
+1. OOPs (Object-Oriented Programming)
+2. Exception Handling
+3. File Handling
+4. Serialization
+5. Regular Expressions and Web Scraping
+6. Multi-threading
+7. Python Database Connectivity (PDBC)
+8. Decorators
+9. Generators
+10. Logging Module
+11. Assertions
+12. NumPy
+13. Pandas
+14. Unit Testing
 
 ---
 
 ### Python Full Stack web developer :
 
-Django
-UI Technologies
-Django Rest Framework(DRF)
+15. Django
+16. UI Technologies
+17. Django Rest Framework (DRF)
 
 ---
 
