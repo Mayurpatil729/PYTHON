@@ -18,11 +18,11 @@
     
 
 # to print square pattern in alphabet symbols in dictionary pattern
-n=int(input("Enter number of rows : "))   
-for i in range(n):
-    for j in range(n):
-        print(chr(65+j),end=" ")
-    print()
+# n=int(input("Enter number of rows : "))   
+# for i in range(n):
+#     for j in range(n):
+#         print(chr(65+j),end=" ")
+#     print()
     
     
     
