@@ -25,7 +25,12 @@ print(n[3:7])
 print(n[8:2:-2])
 print(n[4:100])
 print()
-
+a=[1,24,76,43,123,654,67,65]
+b=a[::]
+b=a[::-1]
+b=a[7:3:-1]
+b=a[:len(a)//2]
+print(b)
 
 # Iterate by position/index :
 for i in range(0, len(n)):
